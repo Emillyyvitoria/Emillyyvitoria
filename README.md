@@ -4,7 +4,7 @@
      -Estou me densenvolvendo na linguagem JavaScript
      -Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
-     ###Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
      @Emy_vivi
 
