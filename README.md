@@ -1,6 +1,6 @@
      Boas vindas ao meu perfil ❣️
 
-     - Estou estudando na [Alura](https://www.alura.com.br)
+     - Estou estudando na Alura
      -Estou me densenvolvendo na linguagem JavaScript
      -Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
